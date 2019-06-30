@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task1</string>
+    <string name="todo">TODO</string>
+    <string name="next_picture">下一张</string>
+    <string name="introduce1">fff</string>
+    <string name="describe">请输入文字</string>
+    <string name="previous_picture">上一张</string>
+</resources>
